@@ -6,6 +6,5 @@ This is [his Github profile](https://github.com/miroslavveljanoski)
 More [about Miroslav.](https://github.com/HackYourFutureBelgium/class-9-10/blob/master/student-bios/miroslavveljanoski.md)
 
 ---
----
-[<< Harun](./harun.md) | [Feruz >>](./feruz.md)
+[<< Harun](./harun.md) | [Murielle >>](./murielle.md)
 
