@@ -8,4 +8,4 @@ The team is called Coding with SkyBlue. It consists of six people including me. 
 3. [Harun](./harun.md)
 4. [Miroslav](./miroslav.md)
 5. [Murielle](./murielle.md)
-6. Yana (me)
+6. [Yana (me)](./yana.md)
