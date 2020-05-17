@@ -6,4 +6,4 @@ Feruz is from Eritrea and she lives currently in Kortrijk.
 More [about Feruz](https://github.com/HackYourFutureBelgium/class-9-10/blob/master/student-bios/Feruzteame.md)
 
 ---
-[<< Boam](./boam.md) | [Feruz >>](./harun.md)
+[<< Boam](./boam.md) | [Harun >>](./harun.md)
