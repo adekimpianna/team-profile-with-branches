@@ -7,4 +7,4 @@ Murielle loves anything related to network security.
 This is [Murielle's Github profile](https://github.com/murvanessa)  
 
 ---
-[<< Miroslav](./miroslav.md) | [Feruz >>](./feruz.md)
+[<< Miroslav](./miroslav.md) | [Yana >>](./yana.md)
