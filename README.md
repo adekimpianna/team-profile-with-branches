@@ -6,6 +6,6 @@ The team is called Coding with SkyBlue. It consists of six people including me. 
 1. [Boam](./boam.md)
 2. [Feruz](./feruz.md)
 3. [Harun](./harun.md)
-4. Miroslav
+4. [Miroslav](./miroslav.md)
 5. Murielle
 6. Yana (me)

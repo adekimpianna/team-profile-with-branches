@@ -6,4 +6,4 @@ This is [Harun's Github profile](https://github.com/harunaltunhr)
 More [about Harun.](https://github.com/HackYourFutureBelgium/class-9-10/blob/master/student-bios/harunaltunhr.md)
 
 ---
-[<< Feruz](./feruz.md) | [Feruz >>](./feruz.md)
+[<< Feruz](./feruz.md) | [Miroslav >>](./miroslav.md)
